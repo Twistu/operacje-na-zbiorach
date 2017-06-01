@@ -1,0 +1,7 @@
+ReadAll zbiory1.txt
+Z = X + Y
+Save zbiory3.txt
+ReadSet zbiory2.txt A
+C = X * Y
+D = A + C
+Delete C

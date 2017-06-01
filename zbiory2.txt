@@ -1,0 +1,2 @@
+A = {brat, mama, siostra, tata}
+B = {do, nie, nikogo, roboty, tutaj}
